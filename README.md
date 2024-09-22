@@ -28,3 +28,7 @@ Following inferences can be drawn from the dashboard:
     b) Average speed of answering calls = 67.52
     
   while calculating average rating, null values have been ignored as they were not relevant for some customers. 
+
+- Among the agents Jim answered the maximum number of calls(536)
+- Least number of calls answered was by Stewart(477)
+- Maximum number of cases resolved was by Jim(485)
